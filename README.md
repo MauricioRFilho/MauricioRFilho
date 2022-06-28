@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on [SmartHint](https://www.smarthint.co/)
+- 🌱 I’m currently learning ReactJS [ReactJS](https://pt-br.reactjs.org/)
+- 📫 How to reach me: [mauricio.santos0198@gmail.com]
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioRFilho)](https://github.com/MauricioRFilho/github-readme-stats)
+
+
 
 <!--
 **MauricioRFilho/MauricioRFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
