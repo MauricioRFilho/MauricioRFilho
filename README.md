@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [SmartHint](https://www.smarthint.co/)
+<!-- - 🔭 I’m currently working on [SmartHint](https://www.smarthint.co/) -->
+- 🔭 I’m currently not working
 - 🌱 I’m currently learning ReactJS [ReactJS](https://pt-br.reactjs.org/)
 - 📫 How to reach me: [mauricio.santos0198@gmail.com]
 
@@ -8,7 +9,7 @@
 stats](https://github-readme-stats.vercel.app/api?username=MauricioRFilho)](https://github.com/MauricioRFilho/github-readme-stats)
 
 
-Claro, aqui está um exemplo de apresentação em arquivo .md:
+<!-- Claro, aqui está um exemplo de apresentação em arquivo .md: -->
 
 <div class="markdown prose w-full break-words dark:prose-invert dark">
     <h1>Mauricio Filho</h1>
@@ -29,11 +30,12 @@ Claro, aqui está um exemplo de apresentação em arquivo .md:
     <p>Descrição: Uma aplicação que faz processamento inicial de informações de um formulário e manipulação de elementos visuais.</p>
     <p>Tecnologias usadas: React.</p>
     <p>Link do projeto: <a href="https://github.com/MauricioRFilho/Organo-alura/tree/main/organo" target="_new">No Git</a></p>
-    <!-- <h3>Projeto 2</h3>
-    <p>Descrição: Um site de comércio eletrônico usando React e Redux.</p>
-    <p>Tecnologias usadas: React, Redux, Node.js, MongoDB.</p>
-    <p>Link do projeto: <a href="https://github.com/projeto2" target="_new">https://github.com/projeto2</a></p>
-    <h2>Conclusão</h2> -->
+    <h3>Projeto 2</h3>
+    <h3><a href="https://cine-hmtrkttov-mauriciootk.vercel.app/">Cine Tag</a></h3>
+    <p>Descrição: Sistema de apresentação de vídeos de um canal</p>
+    <p>Tecnologias usadas: React</p>
+    <p>Link do projeto: <a href="https://github.com/MauricioRFilho/CineTag/tree/main/cine-tag" target="_new">No git</a></p>
+    <!-- <h2>Conclusão</h2> -->
     <p>Obrigado por ler minha apresentação! Se você tiver alguma dúvida ou quiser saber mais sobre mim ou meus projetos,
         sinta-se à vontade para entrar em contato através do meu perfil no GitHub ou do meu email mauricio.srfh@gmail.com.</p>
 </div>
