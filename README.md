@@ -6,7 +6,7 @@
 
 
 [![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=MauricioRFilho)](https://github.com/MauricioRFilho/github-readme-stats)
+stats](https://github-readme-stats.vercel.app/api?username=MauricioRFilho)
 
 
 <!-- Claro, aqui está um exemplo de apresentação em arquivo .md: -->
