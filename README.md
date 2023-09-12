@@ -5,8 +5,8 @@
 - 📫 How to reach me: [mauricio.santos0198@gmail.com]
 
 
-[![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=MauricioRFilho)
+[![Anurag's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=MauricioRFilho)
 
 
 <!-- Claro, aqui está um exemplo de apresentação em arquivo .md: -->
