@@ -5,12 +5,6 @@
 - 📫 How to reach me: [mauricio.santos0198@gmail.com]
 
 
-[![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=MauricioRFilho)
-
-
-<!-- Claro, aqui está um exemplo de apresentação em arquivo .md: -->
-
 <div class="markdown prose w-full break-words dark:prose-invert dark">
     <h1>Mauricio Filho</h1>
     <h2>Introdução</h2>
