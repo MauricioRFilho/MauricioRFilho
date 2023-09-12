@@ -7,7 +7,6 @@
 
 <div class="markdown prose w-full break-words dark:prose-invert dark">
     <h1>Mauricio Filho</h1>
-    <h2>Introdução</h2>
     <p>Olá, meu nome é Mauricio dos Santos Rodrigues Filho e sou desenvolvedor de software com 4 anos de experiência. Neste
         documento, você encontrará informações sobre minhas habilidades e projetos anteriores.</p>
     <h2>Habilidades</h2>
