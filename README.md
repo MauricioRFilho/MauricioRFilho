@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- - 🔭 I’m currently working on [SmartHint](https://www.smarthint.co/) -->
-- 🔭 I’m currently not working on [SpiritShop](https://www.spiritshop.com.br/)
+- 🔭 I’m currently working on [SpiritShop](https://www.spiritshop.com.br/)
 - 🌱 I’m currently learning ReactJS [ReactJS](https://pt-br.reactjs.org/)
 - 📫 How to reach me: [mauricio.santos0198@gmail.com]
 
