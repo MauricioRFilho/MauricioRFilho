@@ -2,7 +2,7 @@
 <!-- - 🔭 I’m currently working on [SmartHint](https://www.smarthint.co/) -->
 - 🔭 I’m currently working on [SpiritShop](https://www.spiritshop.com.br/)
 - 🌱 I’m currently learning ReactJS [ReactJS](https://pt-br.reactjs.org/)
-- 📫 How to reach me: [mauricio.santos0198@gmail.com]
+- 📫 How to reach me: [mauricio.srfh@gmail.com]
 
 
 <div class="markdown prose w-full break-words dark:prose-invert dark">
@@ -13,8 +13,8 @@
     <ul>
         <li>Desenvolvimento web usando HTML, CSS, JavaScript, React e Vue.</li>
         <!-- <li>Desenvolvimento de aplicativos móveis usando React Native.</li> -->
-        <li>Desenvolvimento de aplicativos de desktop usando C# e .NET.</li>
-        <li>Gerenciamento de bancos de dados usando MySQL e MongoDB.</li>
+        <li>Desenvolvimento de aplicativos de desktop com tecnologias: C#, .NET e Node.js.</li>
+        <li>Gerenciamento de bancos de dados usando MySQL, MongoDB, Postgresql e sqlite.</li>
         <li>Conhecimento em controle de versionamento com Git, GitHub, Gitlab e Azure.</li>
     </ul>
     <h2>Projetos Anteriores</h2>
