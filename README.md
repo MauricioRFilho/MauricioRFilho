@@ -1,52 +1,44 @@
 ### Hi there 👋
-<!-- - 🔭 I’m currently working on [SmartHint](https://www.smarthint.co/) -->
-- 🔭 I’m currently working on [SpiritShop](https://www.spiritshop.com.br/)
-- 🌱 I’m currently learning ReactJS [ReactJS](https://pt-br.reactjs.org/)
-- 📫 How to reach me: [mauricio.srfh@gmail.com]
+- 🔭 Atualmente trabalho na [SpiritShop](https://www.spiritshop.com.br/)
+- 🌱 Estou estudando alguns conceitos de integrações com API e React.JS [ReactJS](https://pt-br.reactjs.org/)
+- 📫 Para entrar em contato pode utilizar meu E-mail: [mauricio](mauricio.srfh@gmail.com) ou o [Linkedin](https://www.linkedin.com/in/mauricio-d-ba069ab3/)
 
 
-<div class="markdown prose w-full break-words dark:prose-invert dark">
-    <h1>Mauricio Filho</h1>
-    <p>Olá, meu nome é Mauricio dos Santos Rodrigues Filho e sou desenvolvedor de software com 4 anos de experiência. Neste
-        documento, você encontrará informações sobre minhas habilidades e projetos anteriores.</p>
-    <h2>Habilidades</h2>
-    <ul>
-        <li>Desenvolvimento web usando HTML, CSS, JavaScript, React e Vue.</li>
-        <!-- <li>Desenvolvimento de aplicativos móveis usando React Native.</li> -->
-        <li>Desenvolvimento de aplicativos de desktop com tecnologias: C#, .NET e Node.js.</li>
-        <li>Gerenciamento de bancos de dados usando MySQL, MongoDB, Postgresql e sqlite.</li>
-        <li>Conhecimento em controle de versionamento com Git, GitHub, Gitlab e Azure.</li>
-    </ul>
-    <h2>Projetos Anteriores</h2>
-    <p>Aqui estão alguns dos meus projetos anteriores:</p>
-    <h3><a href="https://organo-discord-seven.vercel.app/">Organo Disc</a></h3>
-    <p>Descrição: Uma aplicação que faz processamento inicial de informações de um formulário e manipulação de elementos visuais.</p>
-    <p>Tecnologias usadas: React.</p>
-    <p>Link do projeto: <a href="https://github.com/MauricioRFilho/Organo-alura/tree/main/organo" target="_new">No Git</a></p>
-    <h3>Projeto 2</h3>
-    <h3><a href="https://cine-hmtrkttov-mauriciootk.vercel.app/">Cine Tag</a></h3>
-    <p>Descrição: Sistema de apresentação de vídeos de um canal</p>
-    <p>Tecnologias usadas: React</p>
-    <p>Link do projeto: <a href="https://github.com/MauricioRFilho/CineTag/tree/main/cine-tag" target="_new">No git</a></p>
-    <!-- <h2>Conclusão</h2> -->
-    <p>Obrigado por ler minha apresentação! Se você tiver alguma dúvida ou quiser saber mais sobre mim ou meus projetos,
-        sinta-se à vontade para entrar em contato através do meu perfil no GitHub ou do meu email mauricio.srfh@gmail.com.</p>
-</div>
+    # Mauricio Filho 
+        Olá, meu nome é Mauricio dos Santos Rodrigues Filho e sou desenvolvedor de software com 4 anos de experiência. Neste
+        documento, você encontrará informações sobre minhas habilidades e projetos anteriores.
+    ## Habilidades 
+    ```
+       Vanilla, React.Js, WEB (CSS, HTML, SASS, BOOTSTRAP)
+       Desenvolvimento Back-end: C#, .NET e Node.js.
+       Gerenciamento de bancos de dados usando MySQL, MongoDB, Postgresql e sqlite.
+       Conhecimento em controle de versionamento com Git, GitHub, Gitlab e Azure.
+    ```
+    ---
+    ## Projetos de estudos
+
+    ### Aqui estão alguns dos meus projetos anteriores:
+
+    #### <a href="https://organo-discord-seven.vercel.app/">Organo Disc</a>
+    Descrição: Uma aplicação que faz processamento inicial de informações de um formulário e manipulação de elementos visuais.
+    Tecnologias usadas: React.
+    Link do projeto: [No Git](https://github.com/MauricioRFilho/Organo-alura/tree/main/organo)
+    ```
+    Em desenvolvimento: Integração com discord para visualização de membros e solicitação de novos.
+    ```
+    ---
+
+    #### <a href="https://cinetag-rgozs91md-mauriciootk.vercel.app/">Cine Tag</a>
+    Descrição: Aqui fiz uma pequena aplicação que faz a leitura de uma API ou Json para o retorno de videos do meu proprio canal.
+    Tecnologias usadas: React
+    Link do projeto: <a href="https://github.com/MauricioRFilho/CineTag/tree/main/cine-tag" target="_new">No git</a>
+
+    ------
+
+    Obrigado por ler minha apresentação! Se você tiver alguma dúvida ou quiser saber mais sobre mim ou meus projetos,
+    
+    
+    ##### sinta-se à vontade para entrar em contato através do meu perfil no GitHub ou do meu email mauricio.srfh@gmail.com.
 
 
 
-
-<!--
-**MauricioRFilho/MauricioRFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
