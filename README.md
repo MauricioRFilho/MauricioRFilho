@@ -36,9 +36,9 @@ Sou um desenvolvedor apaixonado por criar **experiências digitais** fluidas e e
 
 ### **🔹 Ferramentas & DevOps**  
 ✔️ Git, GitHub, GitLab, Azure DevOps  
-✔️ Docker, CI/CD 
-✔️ Google Cloud
-✔️ Redis
+✔️ Docker, CI/CD   
+✔️ Google Cloud  
+✔️ Redis  
 
 ---
 
