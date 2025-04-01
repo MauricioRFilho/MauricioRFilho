@@ -1,18 +1,45 @@
 # 👋 Olá, eu sou Mauricio Filho.
 
-- 🔭 Atualmente, trabalho na [SpiritShop](https://www.spiritshop.com.br/) desenvolvendo soluções inovadoras.
-- 🌱 Aprimorando habilidades em integrações com API e [ReactJS](https://pt-br.reactjs.org/).
-- 📫 Contato: [mauricio.srfh@gmail.com](mailto:mauricio.srfh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mauricio-d-ba069ab3/).
+💻 Desenvolvedor Fullstack com mais de **6 anos de experiência**, apaixonado por tecnologia, inovação e soluções eficientes.  
 
-## Sobre Mim
+Atualmente, faço parte do time da [SpiritShop](https://www.spiritshop.com.br/), onde desenvolvo soluções inovadoras e escaláveis para o e-commerce.  
 
-Desenvolvedor de software com 5 anos de experiência em front-end e back-end.
+🚀 Sempre buscando novos desafios, estou aprimorando minhas habilidades em **integrações com APIs** e **React.js**.  
 
-## Habilidades
+📫 **Entre em contato**:  
+✉️ [mauricio.srfh@gmail.com](mailto:mauricio.srfh@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mauricio-d-ba069ab3/) | 🧑‍💻 [GitHub](https://github.com/MauricioRFilho)  
 
-- **Front-end:** Vanilla, React, HTML, CSS, SASS, Bootstrap.
-- **Back-end:** C#, .NET, Node.js.
-- **Banco de Dados:** MySQL, MongoDB, PostgreSQL, SQLite.
-- **Versionamento:** Git, GitHub, GitLab, Azure.
+---
 
-Entre em contato através do meu [GitHub](https://github.com/MauricioRFilho) ou e-mail.
+## 🏆 Sobre Mim
+
+Sou um desenvolvedor apaixonado por criar **experiências digitais** fluidas e escaláveis, tanto no **front-end** quanto no **back-end**. Com experiência em diversas tecnologias, gosto de solucionar problemas e tornar sistemas mais performáticos e intuitivos.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+### **🔹 Front-end**  
+✔️ HTML, CSS, SASS, Bootstrap  
+✔️ JavaScript (ES6+), React.js, Next.js  
+✔️ TypeScript  
+✔️ Flutter
+
+### **🔹 Back-end**  
+✔️ C# / .NET  
+✔️ PHP
+✔️ Node.js, Express  
+✔️ Integração com APIs REST  
+
+### **🔹 Banco de Dados**  
+✔️ PostgreSQL, MySQL, SQLite, MongoDB  
+
+### **🔹 Ferramentas & DevOps**  
+✔️ Git, GitHub, GitLab, Azure DevOps  
+✔️ Docker, CI/CD 
+✔️ Google Cloud
+✔️ Redis
+
+---
+
+🔎 Sempre em busca de inovação e aprendizado contínuo! Vamos trocar ideias? 😊
