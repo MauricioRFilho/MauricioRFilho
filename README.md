@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por criar **experiências digitais** fluidas e e
 
 ### **🔹 Back-end**  
 ✔️ C# / .NET  
-✔️ PHP
+✔️ PHP      
 ✔️ Node.js, Express  
 ✔️ Integração com APIs REST  
 
