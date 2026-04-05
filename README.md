@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+systems+since+2018+%F0%9F%9A%80;Clean+Architecture+%7C+CQRS+%7C+DDD+%7C+Event+Driven;.NET+%7C+Flutter+%7C+React+%7C+Node.js;Turning+complex+problems+into+elegant+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+systems+since+2016+%F0%9F%9A%80;Autonomous+Fullstack+%26+AI+Projects;Clean+Architecture+%7C+CQRS+%7C+DDD+%7C+Event+Driven;.NET+%7C+Flutter+%7C+React+%7C+AI+%7C+Node.js;Turning+complex+problems+into+elegant+solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,14 +29,14 @@
 name: Mauricio Filho
 role: Senior Fullstack Engineer & Solution Architect
 location: Brasil 🇧🇷
-experience: 6+ years
+experience: 8+ years
 focus:
   - Scalable distributed systems
   - Clean Architecture & DDD
   - API Integrations & Banking (Pluggy/Open Finance)
   - Mobile (Flutter) + Web (React/Next.js)
   - Cloud-native applications
-currently_at: SpiritShop — Building innovative e-commerce solutions
+currently_at: Autonomous Fullstack & AI Projects — Building intelligent, scalable solutions
 philosophy: "Code that solves real problems, architectures that scale, solutions that last."
 ```
 
